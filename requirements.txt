@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+requests
+psycopg2-binary
+asyncpg
+alembic
+environs
+betterlogging
+httpx
